@@ -1,8 +1,8 @@
 #include<stdio.h>//define the header file
 
-
+// factorial program
 int main() {
-    int n,f=1,x;
+    int n,f=1,x,a;
     
     printf("Enter a number");
     scanf("%d",&n);
